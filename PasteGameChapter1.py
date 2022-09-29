@@ -65,5 +65,5 @@ print("*You exit the room, and thus... you leave the program.*")
 
 print("Program written by Wyatt Turpin. Test of Python Programming Knoledge. Written on GNU/Linux with VIM. While unneccassary, this program is Licensed under the GPL v3. Thus, no Propreitary derivitaves may be built from my Source Code.")
 print("Please send Keystroke, Enter, to Exit Program ")
-input()
 
+input()
