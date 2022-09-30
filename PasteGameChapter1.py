@@ -14,7 +14,7 @@ print("Well of course you say " + answer1 + "!")
 
 print("Either way, let us continue.")
 
-input("So how have you been fealing recently? ")
+input("So how have you been feeling recently? ")
 
 print("Hm, yes I see...")
 
